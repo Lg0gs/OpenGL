@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/hello_window.dir/glad.c.o CMakeFiles/hello_window.dir/triangle.cpp.o -o hello_window  -Wl,-rpath,/Library/Frameworks /Library/Frameworks/SDL2.framework/Versions/A/SDL2
