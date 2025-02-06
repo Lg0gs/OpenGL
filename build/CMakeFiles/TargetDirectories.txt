@@ -1,0 +1,3 @@
+/Users/gogsster/Desktop/sdl/build/CMakeFiles/hello_window.dir
+/Users/gogsster/Desktop/sdl/build/CMakeFiles/edit_cache.dir
+/Users/gogsster/Desktop/sdl/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/gogsster/Desktop/sdl/build",
+  "command": "/usr/bin/clang  -I/Users/gogsster/Desktop/sdl/dependencies -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks -g -arch arm64 -o CMakeFiles/hello_window.dir/glad.c.o -c /Users/gogsster/Desktop/sdl/glad.c",
+  "file": "/Users/gogsster/Desktop/sdl/glad.c",
+  "output": "CMakeFiles/hello_window.dir/glad.c.o"
+},
+{
+  "directory": "/Users/gogsster/Desktop/sdl/build",
+  "command": "/usr/bin/clang++  -I/Users/gogsster/Desktop/sdl/dependencies -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks -g -std=gnu++17 -arch arm64 -o CMakeFiles/hello_window.dir/triangle.cpp.o -c /Users/gogsster/Desktop/sdl/triangle.cpp",
+  "file": "/Users/gogsster/Desktop/sdl/triangle.cpp",
+  "output": "CMakeFiles/hello_window.dir/triangle.cpp.o"
+}
+]
